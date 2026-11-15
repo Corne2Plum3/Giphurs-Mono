@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1794344586
-ModificationTime: 1794783916
+ModificationTime: 1794785484
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -53,7 +53,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 78 13 5
+WinInfo: 13 13 5
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -310,40 +310,40 @@ Encoding: 42 42 10
 GlifName: asterisk
 Width: 1232
 VWidth: 0
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
-641 1043 m 257
+591 891 m 257
+ 616 968 l 1
+ 641 1043 l 257
  158 1213 l 257
  101 1038 l 257
  591 891 l 257
+681 921 m 257
  616 968 l 1
- 641 1043 l 257
-552 1015 m 257
+ 552 1015 l 257
  241 608 l 257
  390 500 l 257
  681 921 l 257
+681 1015 m 257
  616 968 l 1
- 552 1015 l 257
-552 921 m 257
+ 552 921 l 257
  843 500 l 257
  992 608 l 257
  681 1015 l 257
+591 1044 m 257
  616 968 l 1
- 552 921 l 257
-640 892 m 257
+ 640 892 l 257
  1131 1039 l 257
  1074 1214 l 257
  591 1044 l 257
+536 968 m 257
  616 968 l 1
- 640 892 l 257
-696 968 m 261
- 708 1480 l 261
- 524 1480 l 261
- 536 968 l 261
- 616 968 l 1
- 696 968 l 261
+ 696 968 l 257
+ 708 1480 l 257
+ 524 1480 l 257
+ 536 968 l 257
 EndSplineSet
 EndChar
 
@@ -855,7 +855,7 @@ Encoding: 63 63 31
 GlifName: question
 Width: 1232
 VWidth: 0
-Flags: HWO
+Flags: HW
 CounterMasks: 1 1c
 LayerCount: 2
 Fore
