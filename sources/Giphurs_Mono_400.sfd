@@ -1,5 +1,5 @@
 SplineFontDB: 3.2
-FontName: Giphurs-Mono-Regular
+FontName: GiphursMono-Regular
 FullName: Giphurs Mono Regular
 FamilyName: Giphurs Mono
 Weight: Regular
@@ -22,8 +22,8 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1794344586
-ModificationTime: 1794772512
-PfmFamily: 17
+ModificationTime: 1794783646
+PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
 LineGap: 0
@@ -53,7 +53,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 65 13 5
+WinInfo: 78 13 5
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -67,6 +67,7 @@ BeginChars: 65537 95
 
 StartChar: space
 Encoding: 32 32 0
+GlifName: space
 Width: 1232
 VWidth: 0
 Flags: W
@@ -75,6 +76,7 @@ EndChar
 
 StartChar: exclam
 Encoding: 33 33 1
+GlifName: exclam
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -86,16 +88,17 @@ SplineSet
  776 230 706 300 616 300 c 260
  526 300 456 230 456 140 c 260
  456 50 526 -20 616 -20 c 260xc0
-526 452 m 261x90
- 706 452 l 261x90
- 722 1480 l 261
- 510 1480 l 261xa0
- 526 452 l 261x90
+526 452 m 257x90
+ 706 452 l 257x90
+ 722 1480 l 257
+ 510 1480 l 257xa0
+ 526 452 l 257x90
 EndSplineSet
 EndChar
 
 StartChar: quotedbl
 Encoding: 34 34 2
+GlifName: quotedbl
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -117,6 +120,7 @@ EndChar
 
 StartChar: numbersign
 Encoding: 35 35 3
+GlifName: numbersign
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -148,6 +152,7 @@ EndChar
 
 StartChar: dollar
 Encoding: 36 36 4
+GlifName: dollar
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -179,6 +184,7 @@ EndChar
 
 StartChar: percent
 Encoding: 37 37 5
+GlifName: percent
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -215,6 +221,7 @@ EndChar
 
 StartChar: ampersand
 Encoding: 38 38 6
+GlifName: ampersand
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -245,6 +252,7 @@ EndChar
 
 StartChar: quotesingle
 Encoding: 39 39 7
+GlifName: quotesingle
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -261,6 +269,7 @@ EndChar
 
 StartChar: parenleft
 Encoding: 40 40 8
+GlifName: parenleft
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -279,6 +288,7 @@ EndChar
 
 StartChar: parenright
 Encoding: 41 41 9
+GlifName: parenright
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -297,6 +307,7 @@ EndChar
 
 StartChar: asterisk
 Encoding: 42 42 10
+GlifName: asterisk
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -338,6 +349,7 @@ EndChar
 
 StartChar: plus
 Encoding: 43 43 11
+GlifName: plus
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -359,6 +371,7 @@ EndChar
 
 StartChar: comma
 Encoding: 44 44 12
+GlifName: comma
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -382,6 +395,7 @@ EndChar
 
 StartChar: hyphen
 Encoding: 45 45 13
+GlifName: hyphen
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -398,6 +412,7 @@ EndChar
 
 StartChar: period
 Encoding: 46 46 14
+GlifName: period
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -414,6 +429,7 @@ EndChar
 
 StartChar: slash
 Encoding: 47 47 15
+GlifName: slash
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -430,6 +446,7 @@ EndChar
 
 StartChar: zero
 Encoding: 48 48 16
+GlifName: zero
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -456,6 +473,7 @@ EndChar
 
 StartChar: one
 Encoding: 49 49 17
+GlifName: one
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -478,6 +496,7 @@ EndChar
 
 StartChar: two
 Encoding: 50 50 18
+GlifName: two
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -509,6 +528,7 @@ EndChar
 
 StartChar: three
 Encoding: 51 51 19
+GlifName: three
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -538,6 +558,7 @@ EndChar
 
 StartChar: four
 Encoding: 52 52 20
+GlifName: four
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -565,6 +586,7 @@ EndChar
 
 StartChar: five
 Encoding: 53 53 21
+GlifName: five
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -598,6 +620,7 @@ EndChar
 
 StartChar: six
 Encoding: 54 54 22
+GlifName: six
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -629,6 +652,7 @@ EndChar
 
 StartChar: seven
 Encoding: 55 55 23
+GlifName: seven
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -651,6 +675,7 @@ EndChar
 
 StartChar: eight
 Encoding: 56 56 24
+GlifName: eight
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -682,6 +707,7 @@ EndChar
 
 StartChar: nine
 Encoding: 57 57 25
+GlifName: nine
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -713,6 +739,7 @@ EndChar
 
 StartChar: colon
 Encoding: 58 58 26
+GlifName: colon
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -724,16 +751,17 @@ SplineSet
  776 990 706 1060 616 1060 c 256
  526 1060 456 990 456 900 c 256
  456 810 526 740 616 740 c 256
-616 -20 m 256
- 706 -20 776 50 776 140 c 256
- 776 230 706 300 616 300 c 256
- 526 300 456 230 456 140 c 256
- 456 50 526 -20 616 -20 c 256
+616 -20 m 260
+ 706 -20 776 50 776 140 c 260
+ 776 230 706 300 616 300 c 260
+ 526 300 456 230 456 140 c 260
+ 456 50 526 -20 616 -20 c 260
 EndSplineSet
 EndChar
 
 StartChar: semicolon
 Encoding: 59 59 27
+GlifName: semicolon
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -762,6 +790,7 @@ EndChar
 
 StartChar: less
 Encoding: 60 60 28
+GlifName: less
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -781,6 +810,7 @@ EndChar
 
 StartChar: equal
 Encoding: 61 61 29
+GlifName: equal
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -802,6 +832,7 @@ EndChar
 
 StartChar: greater
 Encoding: 62 62 30
+GlifName: greater
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -821,38 +852,40 @@ EndChar
 
 StartChar: question
 Encoding: 63 63 31
-Width: 1144
+GlifName: question
+Width: 1232
 VWidth: 0
-Flags: HW
+Flags: HWO
 CounterMasks: 1 1c
 LayerCount: 2
 Fore
 SplineSet
-572 -20 m 256
- 662 -20 732 50 732 140 c 256
- 732 230 662 300 572 300 c 256
- 482 300 412 230 412 140 c 260
- 412 50 482 -20 572 -20 c 256
-864 1054 m 256
- 864 896 762 776 572 776 c 257
- 572 608 l 257
- 827 608 1044 784 1044 1054 c 256
- 1044 1324 842 1500 572 1500 c 256
- 302 1500 100 1302 100 1032 c 257
- 285 978 l 257
- 282 995 280 1013 280 1032 c 256
- 280 1190 382 1340 572 1340 c 256
- 761 1340 864 1212 864 1054 c 256
-662 452 m 257
- 662 776 l 257
- 482 776 l 257
- 482 452 l 257
- 662 452 l 257
+616 -20 m 256
+ 706 -20 776 50 776 140 c 256
+ 776 230 706 300 616 300 c 256
+ 526 300 456 230 456 140 c 256
+ 456 50 526 -20 616 -20 c 256
+908 1054 m 256
+ 908 896 806 776 616 776 c 257
+ 616 608 l 257
+ 871 608 1088 784 1088 1054 c 256
+ 1088 1324 886 1500 616 1500 c 256
+ 346 1500 144 1302 144 1032 c 257
+ 329 978 l 257
+ 326 995 324 1013 324 1032 c 256
+ 324 1190 426 1340 616 1340 c 256
+ 805 1340 908 1212 908 1054 c 256
+706 452 m 257
+ 706 776 l 257
+ 526 776 l 257
+ 526 452 l 257
+ 706 452 l 257
 EndSplineSet
 EndChar
 
 StartChar: at
 Encoding: 64 64 32
+GlifName: at
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -888,6 +921,7 @@ EndChar
 
 StartChar: A
 Encoding: 65 65 33
+GlifName: A_
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -917,6 +951,7 @@ EndChar
 
 StartChar: B
 Encoding: 66 66 34
+GlifName: B_
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -951,6 +986,7 @@ EndChar
 
 StartChar: C
 Encoding: 67 67 35
+GlifName: C_
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -976,6 +1012,7 @@ EndChar
 
 StartChar: D
 Encoding: 68 68 36
+GlifName: D_
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -1002,6 +1039,7 @@ EndChar
 
 StartChar: E
 Encoding: 69 69 37
+GlifName: E_
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -1030,6 +1068,7 @@ EndChar
 
 StartChar: F
 Encoding: 70 70 38
+GlifName: F_
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -1054,6 +1093,7 @@ EndChar
 
 StartChar: G
 Encoding: 71 71 39
+GlifName: G_
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -1087,6 +1127,7 @@ EndChar
 
 StartChar: H
 Encoding: 72 72 40
+GlifName: H_
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -1115,6 +1156,7 @@ EndChar
 
 StartChar: I
 Encoding: 73 73 41
+GlifName: I_
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -1143,6 +1185,7 @@ EndChar
 
 StartChar: J
 Encoding: 74 74 42
+GlifName: J_
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -1166,6 +1209,7 @@ EndChar
 
 StartChar: K
 Encoding: 75 75 43
+GlifName: K_
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -1193,6 +1237,7 @@ EndChar
 
 StartChar: L
 Encoding: 76 76 44
+GlifName: L_
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -1213,6 +1258,7 @@ EndChar
 
 StartChar: M
 Encoding: 77 77 45
+GlifName: M_
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -1246,6 +1292,7 @@ EndChar
 
 StartChar: N
 Encoding: 78 78 46
+GlifName: N_
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -1270,6 +1317,7 @@ EndChar
 
 StartChar: O
 Encoding: 79 79 47
+GlifName: O_
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -1296,6 +1344,7 @@ EndChar
 
 StartChar: P
 Encoding: 80 80 48
+GlifName: P_
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -1323,6 +1372,7 @@ EndChar
 
 StartChar: Q
 Encoding: 81 81 49
+GlifName: Q_
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -1351,6 +1401,7 @@ EndChar
 
 StartChar: R
 Encoding: 82 82 50
+GlifName: R_
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -1383,6 +1434,7 @@ EndChar
 
 StartChar: S
 Encoding: 83 83 51
+GlifName: S_
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -1412,6 +1464,7 @@ EndChar
 
 StartChar: T
 Encoding: 84 84 52
+GlifName: T_
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -1435,6 +1488,7 @@ EndChar
 
 StartChar: U
 Encoding: 85 85 53
+GlifName: U_
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -1461,6 +1515,7 @@ EndChar
 
 StartChar: V
 Encoding: 86 86 54
+GlifName: V_
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -1482,6 +1537,7 @@ EndChar
 
 StartChar: W
 Encoding: 87 87 55
+GlifName: W_
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -1509,6 +1565,7 @@ EndChar
 
 StartChar: X
 Encoding: 88 88 56
+GlifName: X_
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -1535,6 +1592,7 @@ EndChar
 
 StartChar: Y
 Encoding: 89 89 57
+GlifName: Y_
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -1561,6 +1619,7 @@ EndChar
 
 StartChar: Z
 Encoding: 90 90 58
+GlifName: Z_
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -1591,6 +1650,7 @@ EndChar
 
 StartChar: bracketleft
 Encoding: 91 91 59
+GlifName: bracketleft
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -1611,6 +1671,7 @@ EndChar
 
 StartChar: backslash
 Encoding: 92 92 60
+GlifName: backslash
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -1627,6 +1688,7 @@ EndChar
 
 StartChar: bracketright
 Encoding: 93 93 61
+GlifName: bracketright
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -1647,6 +1709,7 @@ EndChar
 
 StartChar: asciicircum
 Encoding: 94 94 62
+GlifName: asciicircum
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -1666,6 +1729,7 @@ EndChar
 
 StartChar: underscore
 Encoding: 95 95 63
+GlifName: underscore
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -1682,22 +1746,24 @@ EndChar
 
 StartChar: grave
 Encoding: 96 96 64
+GlifName: grave
 Width: 1232
 VWidth: 0
 Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-818 1224 m 257
- 640 1224 l 257
- 414 1480 l 257
+818 1224 m 261
  640 1480 l 257
- 818 1224 l 257
+ 414 1480 l 257
+ 640 1224 l 261
+ 818 1224 l 261
 EndSplineSet
 EndChar
 
 StartChar: a
 Encoding: 97 97 65
+GlifName: a
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -1738,6 +1804,7 @@ EndChar
 
 StartChar: b
 Encoding: 98 98 66
+GlifName: b
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -1766,6 +1833,7 @@ EndChar
 
 StartChar: c
 Encoding: 99 99 67
+GlifName: c
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -1791,6 +1859,7 @@ EndChar
 
 StartChar: d
 Encoding: 100 100 68
+GlifName: d
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -1822,6 +1891,7 @@ EndChar
 
 StartChar: e
 Encoding: 101 101 69
+GlifName: e
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -1855,6 +1925,7 @@ EndChar
 
 StartChar: f
 Encoding: 102 102 70
+GlifName: f
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -1882,6 +1953,7 @@ EndChar
 
 StartChar: g
 Encoding: 103 103 71
+GlifName: g
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -1930,10 +2002,11 @@ EndChar
 
 StartChar: h
 Encoding: 104 104 72
+GlifName: h
 Width: 1232
 VWidth: 0
 Flags: HW
-AnchorPoint: "bottom_cedilla" 230 -20 basechar 0
+AnchorPoint: "bottom_cedilla" 250 -20 basechar 0
 AnchorPoint: "bottom_center" 616 0 basechar 0
 AnchorPoint: "top_center" 230 1380 basechar 0
 LayerCount: 2
@@ -1957,6 +2030,7 @@ EndChar
 
 StartChar: i
 Encoding: 105 105 73
+GlifName: i
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -1988,6 +2062,7 @@ EndChar
 
 StartChar: j
 Encoding: 106 106 74
+GlifName: j
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -2017,6 +2092,7 @@ EndChar
 
 StartChar: k
 Encoding: 107 107 75
+GlifName: k
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -2044,6 +2120,7 @@ EndChar
 
 StartChar: l
 Encoding: 108 108 76
+GlifName: l
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -2068,6 +2145,7 @@ EndChar
 
 StartChar: m
 Encoding: 109 109 77
+GlifName: m
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -2102,6 +2180,7 @@ EndChar
 
 StartChar: n
 Encoding: 110 110 78
+GlifName: n
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -2128,6 +2207,7 @@ EndChar
 
 StartChar: o
 Encoding: 111 111 79
+GlifName: o
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -2154,6 +2234,7 @@ EndChar
 
 StartChar: p
 Encoding: 112 112 80
+GlifName: p
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -2182,6 +2263,7 @@ EndChar
 
 StartChar: q
 Encoding: 113 113 81
+GlifName: q
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -2210,6 +2292,7 @@ EndChar
 
 StartChar: r
 Encoding: 114 114 82
+GlifName: r
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -2240,6 +2323,7 @@ EndChar
 
 StartChar: s
 Encoding: 115 115 83
+GlifName: s
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -2250,30 +2334,31 @@ AnchorPoint: "bottom_cedilla" 606 -20 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-606 900 m 260
- 744 900 869 821 922 700 c 5
- 1075 788 l 5
- 988 955 805 1060 606 1060 c 260
- 346 1060 177 935 177 760 c 260
- 177 585 361 481 606 460 c 260
- 825 441 922 395 922 300 c 260
- 922 205 828 140 606 140 c 260
- 458 140 316 219 263 340 c 5
- 110 252 l 5
- 197 85 397 -20 606 -20 c 260
- 956 -20 1102 125 1102 300 c 260
- 1102 475 955 589 606 620 c 260
- 465 632 357 665 357 760 c 260
- 357 855 476 900 606 900 c 260
+606 900 m 256
+ 476 900 357 855 357 760 c 256
+ 357 665 465 632 606 620 c 256
+ 955 589 1102 475 1102 300 c 256
+ 1102 125 956 -20 606 -20 c 256
+ 397 -20 197 85 110 252 c 1
+ 263 340 l 1
+ 316 219 458 140 606 140 c 256
+ 828 140 922 205 922 300 c 256
+ 922 395 825 441 606 460 c 256
+ 361 481 177 585 177 760 c 256
+ 177 935 346 1060 606 1060 c 256
+ 805 1060 988 955 1075 788 c 1
+ 922 700 l 1
+ 869 821 744 900 606 900 c 256
 EndSplineSet
 EndChar
 
 StartChar: t
 Encoding: 116 116 84
+GlifName: t
 Width: 1232
 VWidth: 0
 Flags: HW
-AnchorPoint: "bottom_cedilla" 826 -20 basechar 0
+AnchorPoint: "bottom_cedilla" 893 -20 basechar 0
 AnchorPoint: "bottom_center" 754 0 basechar 0
 AnchorPoint: "top_center" 563 1380 basechar 0
 LayerCount: 2
@@ -2302,6 +2387,7 @@ EndChar
 
 StartChar: u
 Encoding: 117 117 85
+GlifName: u
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -2332,6 +2418,7 @@ EndChar
 
 StartChar: v
 Encoding: 118 118 86
+GlifName: v
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -2353,6 +2440,7 @@ EndChar
 
 StartChar: w
 Encoding: 119 119 87
+GlifName: w
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -2380,6 +2468,7 @@ EndChar
 
 StartChar: x
 Encoding: 120 120 88
+GlifName: x
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -2406,9 +2495,10 @@ EndChar
 
 StartChar: y
 Encoding: 121 121 89
+GlifName: y
 Width: 1232
 VWidth: 0
-Flags: HWO
+Flags: HW
 AnchorPoint: "bottom_center" 304 -360 basechar 0
 AnchorPoint: "top_center" 616 1040 basechar 0
 LayerCount: 2
@@ -2432,6 +2522,7 @@ EndChar
 
 StartChar: z
 Encoding: 122 122 90
+GlifName: z
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -2462,6 +2553,7 @@ EndChar
 
 StartChar: braceleft
 Encoding: 123 123 91
+GlifName: braceleft
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -2491,6 +2583,7 @@ EndChar
 
 StartChar: bar
 Encoding: 124 124 92
+GlifName: bar
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -2507,6 +2600,7 @@ EndChar
 
 StartChar: braceright
 Encoding: 125 125 93
+GlifName: braceright
 Width: 1232
 VWidth: 0
 Flags: HW
@@ -2537,6 +2631,7 @@ EndChar
 
 StartChar: asciitilde
 Encoding: 126 126 94
+GlifName: asciitilde
 Width: 1232
 VWidth: 0
 Flags: HW

@@ -1,8 +1,8 @@
 SplineFontDB: 3.2
-FontName: Giphurs-Mono-ExtraBlack
+FontName: GiphursMono-ExtraBlack
 FullName: Giphurs Mono ExtraBlack
 FamilyName: Giphurs Mono
-Weight: ExtraBlack
+Weight: Black
 Copyright: Copyright (c) 2026, Corne2Plum3
 UComments: "2026-11-10: Created with FontForge (http://fontforge.org)"
 Version: 000.100
@@ -22,8 +22,8 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1794344586
-ModificationTime: 1794780532
-PfmFamily: 17
+ModificationTime: 1794783658
+PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
 LineGap: 0
@@ -53,7 +53,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 40 20 5
+WinInfo: 56 14 5
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -855,7 +855,7 @@ Encoding: 63 63 31
 GlifName: question
 Width: 1232
 VWidth: 0
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
@@ -995,17 +995,17 @@ AnchorPoint: "bottom_cedilla" 652 -20 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-430 740 m 256
+50 740 m 260
+ 50 240 292 -30 652 -30 c 256
+ 906 -30 1100 105 1182 360 c 1
+ 826 457 l 1
+ 798 356 731 306 652 306 c 256
+ 519 306 430 445 430 740 c 256
  430 1035 519 1174 652 1174 c 256
  731 1174 798 1124 826 1023 c 1
  1182 1120 l 1
  1100 1375 906 1510 652 1510 c 256
- 292 1510 50 1240 50 740 c 256
- 50 240 292 -30 652 -30 c 256
- 906 -30 1100 105 1182 360 c 1
- 826 457 l 1
- 798 356 731 306 652 306 c 260
- 519 306 430 445 430 740 c 256
+ 292 1510 50 1240 50 740 c 260
 EndSplineSet
 EndChar
 
@@ -1320,6 +1320,7 @@ GlifName: O_
 Width: 1232
 VWidth: 0
 Flags: HW
+AnchorPoint: "top_center" 616 1380 basechar 0
 AnchorPoint: "top_right" 1071 1480 basechar 0
 AnchorPoint: "bottom_center" 616 0 basechar 0
 AnchorPoint: "bottom_right" 806 0 basechar 0
@@ -1374,6 +1375,7 @@ GlifName: Q_
 Width: 1232
 VWidth: 0
 Flags: HW
+AnchorPoint: "top_center" 616 1380 basechar 0
 AnchorPoint: "bottom_center" 616 0 basechar 0
 LayerCount: 2
 Fore
@@ -1750,11 +1752,11 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-907 1224 m 257
+907 1224 m 261
  729 1480 l 257
  325 1480 l 257
  551 1224 l 257
- 907 1224 l 257
+ 907 1224 l 261
 EndSplineSet
 EndChar
 
@@ -1860,7 +1862,9 @@ GlifName: d
 Width: 1232
 VWidth: 0
 Flags: HW
-AnchorPoint: "bottom_center" 555 0 basechar 0
+AnchorPoint: "top_right" 1162 1480 basechar 0
+AnchorPoint: "bottom_cedilla" 546 -20 basechar 0
+AnchorPoint: "bottom_center" 546 0 basechar 0
 AnchorPoint: "top_center" 982 1380 basechar 0
 LayerCount: 2
 Fore
@@ -2001,6 +2005,7 @@ GlifName: h
 Width: 1232
 VWidth: 0
 Flags: HW
+AnchorPoint: "bottom_cedilla" 260 -20 basechar 0
 AnchorPoint: "top_center" 250 1380 basechar 0
 AnchorPoint: "bottom_center" 616 0 basechar 0
 LayerCount: 2
@@ -2327,21 +2332,21 @@ AnchorPoint: "bottom_cedilla" 606 -20 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-606 290 m 256
- 529 290 444 312 407 349 c 1
- 50 252 l 1
- 141 80 327 -30 606 -30 c 256
- 970 -30 1162 130 1162 345 c 256
- 1162 600 955 643 606 674 c 256
- 546 679 463 690 463 715 c 256
- 463 740 543 750 606 750 c 256
- 685 750 723 728 760 693 c 1
- 1118 788 l 1
- 1027 960 896 1070 606 1070 c 256
- 320 1070 103 940 103 715 c 256
- 103 480 361 415 606 394 c 256
- 667 389 802 383 802 345 c 256
- 802 290 657 290 606 290 c 256
+606 750 m 260
+ 543 750 463 740 463 715 c 256
+ 463 690 546 679 606 674 c 256
+ 955 643 1162 600 1162 345 c 256
+ 1162 130 970 -30 606 -30 c 256
+ 327 -30 141 80 50 252 c 1
+ 407 349 l 1
+ 444 312 529 290 606 290 c 256
+ 657 290 802 290 802 345 c 256
+ 802 383 667 389 606 394 c 256
+ 361 415 103 480 103 715 c 256
+ 103 940 320 1070 606 1070 c 256
+ 896 1070 1027 960 1118 788 c 1
+ 760 693 l 1
+ 723 728 685 750 606 750 c 260
 EndSplineSet
 EndChar
 
@@ -2351,6 +2356,7 @@ GlifName: t
 Width: 1232
 VWidth: 0
 Flags: HW
+AnchorPoint: "bottom_cedilla" 898 -20 basechar 0
 AnchorPoint: "top_center" 535 1380 basechar 0
 AnchorPoint: "bottom_center" 631 0 basechar 0
 LayerCount: 2
@@ -2625,7 +2631,7 @@ Encoding: 126 126 94
 GlifName: asciitilde
 Width: 1232
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
