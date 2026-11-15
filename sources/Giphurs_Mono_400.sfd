@@ -3,7 +3,7 @@ FontName: GiphursMono-Regular
 FullName: Giphurs Mono Regular
 FamilyName: Giphurs Mono
 Weight: Regular
-Copyright: Copyright (c) 2026, Corne2Plum3
+Copyright: Copyright 2026 The Giphurs Mono Project Authors (https://github.com/Corne2Plum3/Giphurs-Mono)
 UComments: "2026-11-10: Created with FontForge (http://fontforge.org)"
 Version: 000.100
 ItalicAngle: 0
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1794344586
-ModificationTime: 1794783646
+ModificationTime: 1794783916
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
