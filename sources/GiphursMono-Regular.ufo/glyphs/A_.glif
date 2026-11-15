@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="A" format="2">
+  <advance width="1232"/>
+  <unicode hex="0041"/>
+  <anchor x="616" y="-90" name="bottom_ypogegrammeni"/>
+  <anchor x="616" y="0" name="bottom_center"/>
+  <anchor x="616" y="1380" name="top_center"/>
+  <anchor x="1162" y="0" name="bottom_right"/>
+  <anchor x="1061" y="-20" name="bottom_cedilla"/>
+  <outline>
+    <contour>
+      <point x="304" y="436" type="line"/>
+      <point x="906" y="436" type="line"/>
+      <point x="906" y="604" type="line"/>
+      <point x="304" y="604" type="line"/>
+    </contour>
+    <contour>
+      <point x="960" y="0" type="line"/>
+      <point x="1162" y="0" type="line"/>
+      <point x="714" y="1480" type="line"/>
+      <point x="518" y="1480" type="line"/>
+      <point x="70" y="0" type="line"/>
+      <point x="272" y="0" type="line"/>
+      <point x="616" y="1220" type="line"/>
+    </contour>
+  </outline>
+</glyph>

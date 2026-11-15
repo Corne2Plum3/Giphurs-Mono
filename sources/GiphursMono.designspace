@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="wght" name="weight" minimum="100" maximum="1000" default="400"/>
+  </axes>
+  <sources>
+    <source filename="GiphursMono-Regular.ufo" name="master.GiphursMono.Regular.0" familyname="Giphurs Mono" stylename="Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="weight" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="GiphursMono-ExtraBlack.ufo" familyname="Giphurs Mono" stylename="ExtraBlack">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance filename="GiphursMono-Regular.ufo" name="Giphurs Mono Regular" familyname="Giphurs Mono" stylename="Regular" stylemapfamilyname="Giphurs Mono Regular" stylemapstylename="">
+      <location>
+        <dimension name="weight" xvalue="400"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance filename="GiphursMono-Medium.ufo" name="Giphurs Mono Medium" familyname="Giphurs Mono" stylename="Medium" stylemapfamilyname="Giphurs Mono Medium" stylemapstylename="">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance filename="GiphursMono-SemiBold.ufo" name="Giphurs Mono SemiBold" familyname="Giphurs Mono" stylename="SemiBold" stylemapfamilyname="Giphurs Mono SemiBold" stylemapstylename="">
+      <location>
+        <dimension name="weight" xvalue="600"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance filename="GiphursMono-Bold.ufo" name="Giphurs Mono Bold" familyname="Giphurs Mono" stylename="Bold" stylemapfamilyname="Giphurs Mono Bold" stylemapstylename="">
+      <location>
+        <dimension name="weight" xvalue="700"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance filename="GiphursMono-ExtraBold.ufo" name="Giphurs Mono ExtraBold" familyname="Giphurs Mono" stylename="ExtraBold" stylemapfamilyname="Giphurs Mono ExtraBold" stylemapstylename="">
+      <location>
+        <dimension name="weight" xvalue="800"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance filename="GiphursMono-Black.ufo" name="Giphurs Mono Black" familyname="Giphurs Mono" stylename="Black" stylemapfamilyname="Giphurs Mono Black" stylemapstylename="">
+      <location>
+        <dimension name="weight" xvalue="900"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance filename="GiphursMono-ExtraBlack.ufo" name="Giphurs Mono ExtraBlack" familyname="Giphurs Mono ExtraBlack" stylename="Regular" stylemapfamilyname="Giphurs Mono ExtraBlack" stylemapstylename="" >
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+</designspace>
